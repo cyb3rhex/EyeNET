@@ -1,0 +1,10 @@
+scapy
+psutil
+matplotlib
+numpy
+scikit-learn
+python-nmap
+cryptography
+netifaces
+Pillow
+requests
